@@ -12,7 +12,8 @@ public class Store {
 	
 	static void tweet(String[] dataTweet){
 		try{
-			Entity aTweet = new Entity("TweetTri", dataTweet[0]); //Nama Entity Kind
+			//Entity(Nama Kind, id dari tweet buat key)
+			Entity aTweet = new Entity("TweetTri", dataTweet[0]);
 			
 			aTweet.setProperty("Author", dataTweet[1]);
 			aTweet.setProperty("Time", dataTweet[2]);
