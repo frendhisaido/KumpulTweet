@@ -66,3 +66,5 @@ war/kumpultweet/gwt/clean/clean_rtl.css
 *.png
 
 war/kumpultweet/kumpultweet.nocache.js
+
+.DS_Store
