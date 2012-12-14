@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+    <url>/tarik</url>
+    <description>Start_14-12-12 3_Jam 100_tweet Kind_TweeTri</description>
+    <schedule>every 3 hours</schedule>
+  </cron>
+</cronentries>
